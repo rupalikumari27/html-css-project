@@ -1678,7 +1678,7 @@ margin-right: 30px;
     padding-top: 15%;
     padding-bottom: 5%;
     padding: 10% 4px;
-    margin-top: 485px;
+   margin-top: 511px;
 }
 content {
     width: 100vh;
@@ -1852,6 +1852,7 @@ content {
 .logo-collection{
     display: flex;
     flex-direction: column-reverse;
+    max-width: 303px;
 }
 .picture-collection-5 {
     width: 27%;
@@ -1888,15 +1889,19 @@ content {
     max-width: 110%;
 }
 .section-4{
-    margin-top: 362%;
+    margin-top: 382%;
     margin-left: 0;
     margin-right: 0;
+    padding-top: 15%;
 }
 .query-section{
     flex-direction: column;
 }
 .logo-flex {
     position: absolute;
+}
+.logo-flex-1 {
+    margin-right: 12px;
 }
 }
 
