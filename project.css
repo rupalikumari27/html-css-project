@@ -1827,6 +1827,7 @@ content {
 }
 .blog-wrapper h1{
     font-size: 28px;
+    margin-top: -15px;
 }
 .blog-wrapper h2{
     left: -15px;
