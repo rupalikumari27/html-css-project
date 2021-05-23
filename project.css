@@ -1660,7 +1660,7 @@ margin-right: 30px;
     letter-spacing: 0px;
     background-color: white;
     padding: 5px 10px;
-    margin-top: 4px;
+    margin-top: 7px;
     
 }
 .top-title {
@@ -1893,6 +1893,9 @@ content {
 }
 .query-section{
     flex-direction: column;
+}
+.logo-flex {
+    position: absolute;
 }
 }
 
